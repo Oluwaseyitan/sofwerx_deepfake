@@ -5,3 +5,5 @@ In this repo, we are trying to recreate karanvivekbhargava’s obamanet repo (ht
 Specifically, we will be using Vsauce videos on youtube to extract the training videos and convert to frames to test the algorithm and train the model. Please found the orginal video on Youtube here:https://www.youtube.com/user/Vsauce
 
 Due to the limitation of files that Github can post, we only include several folders for video frames that we used and more data frames can be accessed here: https://drive.google.com/drive/folders/1ZnasC89hGGoubKyOL-FD5SS46JaNLPU1 (data.zip)
+
+Presentation on this project can be accessed here: https://docs.google.com/presentation/d/1r-1fOpwJpdWBKFU7rdveT7c158LkN8e5Vf0oKBRLU-A/edit#slide=id.p
